@@ -1,0 +1,30 @@
+{
+  "id": "ch-15",
+  "title": "QEDLER: Quantum Events-Driven Learner",
+  "subtitle": "Inclination as the bridge between learning, control, logic, information, neural and quantum dynamics",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The quantum extension. Inclination becomes coupling J_ij = κI_ij, the transition operator is built as H_E = Σ J_ij(|i⟩⟨j| + |j⟩⟨i|), evolution is U(t) = e^{−iH_E t}, and measurement collapses a superposition of possible walks into a classical PEDLER walk with P(sᵢ) = |αᵢ|². A twelve-level benchmark roadmap (L0 through L12) is proposed, from a classical PEDLER graph to geometry reconstruction."
+    },
+    {
+      "type": "figure",
+      "id": "qedler-quantum-events-driven-learner",
+      "dimension": "2d",
+      "src": "assets/figures/qedler-quantum-events-driven-learner.png",
+      "alt": "QEDLER: Quantum Events-Driven Learner",
+      "caption": "QEDLER: Quantum Events-Driven Learner — Inclination as the bridge between learning, control, logic, information, neural and quantum dynamics",
+      "explanation": "Panel 12 is honest about its own status and should be preserved that way. The physical-reconstruction programme is stated as five open research questions — whether QEDLER event histories admit a twistor-space representation, whether causal invariants yield Lorentzian metric structure, whether Standard Model symmetries emerge from event-graph structure, whether entanglement and measurement emerge from event dynamics, whether cosmological dynamics emerge from event-hypergraph evolution. Questions, not results.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Dukedom of Humanesque, Volume II, by Abhishek Choudhary (AyeAI). This plate is \"QEDLER: Quantum Events-Driven Learner\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this corpus an Act is EXECUTABLE INTENT (and is not the ACT of ACT-R); Inclination is a SIGNED directional gradient over transition structure, valued in [-1,+1] and attached to edges, where 0 is directional neutrality rather than cessation and decay weakens magnitude while preserving sign; Natural Justice is a constraint or gate on the transition from intent toward Act and execution; and persistence is continuity of identity across admissible transitions rather than permanence. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Act = executable intent. Inclination = directional gradient over transition structure. Natural Justice = constraint or gate between intent and execution. This plate records work within the Humanesque epistemic realms and is not a claim upon the constitutional institutions of any external polity."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-06",
+  "title": "Inclination, Decay, Learning, Logic and Relations",
+  "subtitle": "A directional gradient theory of intent, act and intelligent action",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Fourteen panels developing the calculus. Inclination is signed, not absent at zero. Decay is decay of magnitude, not annihilation of direction: dI/dt = −λI, so sign is preserved and commitment weakens rather than ceasing. Magnitude and direction can be separated, I = (m, d) with m ∈ [0,1] and d ∈ {−1, 0, +1}. Learning takes the control form I_{t+1} = clip[I_t + ηG_t − λI_t], which is persistence plus learning minus decay."
+    },
+    {
+      "type": "figure",
+      "id": "inclination-decay-learning-logic",
+      "dimension": "2d",
+      "src": "assets/figures/inclination-decay-learning-logic.png",
+      "alt": "Inclination, Decay, Learning, Logic and Relations",
+      "caption": "Inclination, Decay, Learning, Logic and Relations — A directional gradient theory of intent, act and intelligent action",
+      "explanation": "Panel 9 is the load-bearing proof rather than an illustration. Linear PEDLER fails XOR for the same reason a perceptron does — no single linear boundary satisfies the required inequalities. Stateful PEDLER solves it by carrying the first input in state: I = −x₁x₂ with x ∈ {−1,+1}, since XOR(x₁,x₂) = −x₁x₂. The nonlinearity comes from transition and state structure, not from an activation function, which is the claim the whole framework needs to survive.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Dukedom of Humanesque, Volume II, by Abhishek Choudhary (AyeAI). This plate is \"Inclination, Decay, Learning, Logic and Relations\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this corpus an Act is EXECUTABLE INTENT (and is not the ACT of ACT-R); Inclination is a SIGNED directional gradient over transition structure, valued in [-1,+1] and attached to edges, where 0 is directional neutrality rather than cessation and decay weakens magnitude while preserving sign; Natural Justice is a constraint or gate on the transition from intent toward Act and execution; and persistence is continuity of identity across admissible transitions rather than permanence. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Act = executable intent. Inclination = directional gradient over transition structure. Natural Justice = constraint or gate between intent and execution. This plate records work within the Humanesque epistemic realms and is not a claim upon the constitutional institutions of any external polity."
+    }
+  ]
+}

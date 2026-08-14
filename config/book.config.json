@@ -1,0 +1,405 @@
+{
+  "meta": {
+    "title": "The Dukedom of Humanesque",
+    "subtitle": "Volume II — The Acts of the Day and the PEDLER Corpus",
+    "author": "Abhishek Choudhary",
+    "affiliation": "AyeAI",
+    "orcid": "0009-0002-0684-8320",
+    "copyright": "Copyright (c) 1993-2026 Abhishek Choudhary. All rights reserved.",
+    "license": "CC-BY-SA-4.0",
+    "doi": null,
+    "repo": "zistgah/duke2",
+    "cover": "assets/figures/cover.png",
+    "language": "en"
+  },
+  "theme": {
+    "tokens": {
+      "--ink": "#0a0e27",
+      "--acc": "#d4a843",
+      "--light": "#fbf6e9"
+    }
+  },
+  "structure": {
+    "parts": [
+      {
+        "id": "p1",
+        "title": "The Acts of the Day",
+        "chapters": [
+          "declaration-of-conditional-abdication",
+          "ephemeral-disvestiture-and-persistence",
+          "the-ilm-cross-medal",
+          "the-corrected-architecture"
+        ]
+      },
+      {
+        "id": "p2",
+        "title": "Inclination",
+        "chapters": [
+          "inclination-directional-gradient",
+          "inclination-decay-learning-logic",
+          "temporal-automation",
+          "inclination-innervation-executable-intent"
+        ]
+      },
+      {
+        "id": "p3",
+        "title": "PEDLER as Executable Architecture",
+        "chapters": [
+          "point-event-driven-learner",
+          "event-driven-intelligence-since-1996",
+          "developmental-executable-dynamical-system",
+          "engineering-the-walk-of-inclination",
+          "scale-without-losing-your-nature"
+        ]
+      },
+      {
+        "id": "p4",
+        "title": "Substrates and Universality",
+        "chapters": [
+          "from-ontology-to-execution",
+          "qedler-quantum-events-driven-learner",
+          "correlating-ilm-romenagri-pedler-qedler",
+          "neural-computation-and-self-healing",
+          "unifying-executable-transition-framework"
+        ]
+      },
+      {
+        "id": "p5",
+        "title": "As We Would Like It",
+        "chapters": [
+          "a-dukedom-for-a-day-everyday",
+          "a-day-well-spent",
+          "five-ways-to-build-a-growth-mindset",
+          "discipline-today-builds-freedom-tomorrow"
+        ]
+      }
+    ],
+    "chapters": [
+      {
+        "id": "ch-01",
+        "number": 1,
+        "title": "Declaration of Conditional Abdication",
+        "subtitle": "The instrument of dormant sovereign authority — eighteen articles suspending active exercise without extinguishing the order",
+        "source": "content/ch-01.json",
+        "topics": [
+          "abdication",
+          "dormant authority",
+          "PEDLER coherence",
+          "ontological substitution",
+          "re-entry"
+        ]
+      },
+      {
+        "id": "ch-02",
+        "number": 2,
+        "title": "Proclamation of Ephemeral Disvestiture and of Persistence Hereafter",
+        "subtitle": "Seventeen articles: the office may sleep, the ontology persists",
+        "source": "content/ch-02.json",
+        "topics": [
+          "persistence",
+          "disvestiture",
+          "distributed PEDLER",
+          "re-instantiation",
+          "TransEg"
+        ]
+      },
+      {
+        "id": "ch-03",
+        "number": 3,
+        "title": "The ILM Cross Medal of the Order of Humanesque",
+        "subtitle": "An honour certificate, and what the Order chooses to name as service",
+        "source": "content/ch-03.json",
+        "topics": [
+          "order of humanesque",
+          "honour",
+          "epistemic service",
+          "ontological drift",
+          "registry"
+        ]
+      },
+      {
+        "id": "ch-04",
+        "number": 4,
+        "title": "The Corrected Architecture",
+        "subtitle": "Constitutional, ontological, computational and executable — the whole ecosystem on one plate",
+        "source": "content/ch-04.json",
+        "topics": [
+          "architecture",
+          "PEDLER calculus",
+          "idiolect",
+          "entropy",
+          "UI as law",
+          "isomorphic commonwealth"
+        ]
+      },
+      {
+        "id": "ch-05",
+        "number": 5,
+        "title": "Inclination: The Directional Gradient over Transition Structure",
+        "subtitle": "The primitive stated plainly — the leaning before the leap",
+        "source": "content/ch-05.json",
+        "topics": [
+          "inclination",
+          "directional gradient",
+          "pre-intent",
+          "natural justice gate",
+          "reversibility"
+        ]
+      },
+      {
+        "id": "ch-06",
+        "number": 6,
+        "title": "Inclination, Decay, Learning, Logic and Relations",
+        "subtitle": "A directional gradient theory of intent, act and intelligent action",
+        "source": "content/ch-06.json",
+        "topics": [
+          "signed inclination",
+          "decay",
+          "balanced ternary",
+          "XOR",
+          "control form",
+          "twistor"
+        ]
+      },
+      {
+        "id": "ch-07",
+        "number": 7,
+        "title": "PEDLER Temporal Automation",
+        "subtitle": "Decay, persistence and verification — what should decay, and what constitutionally may not",
+        "source": "content/ch-07.json",
+        "topics": [
+          "decay",
+          "time to live",
+          "verification",
+          "provenance",
+          "auditability",
+          "constitutional persistence"
+        ]
+      },
+      {
+        "id": "ch-08",
+        "number": 8,
+        "title": "Inclination, Innervation, and Executable Intent",
+        "subtitle": "The computational architecture of walk, learning, development and innervation",
+        "source": "content/ch-08.json",
+        "topics": [
+          "innervation",
+          "afferent",
+          "efferent",
+          "genotype",
+          "lateral inhibition",
+          "closed loop"
+        ]
+      },
+      {
+        "id": "ch-09",
+        "number": 9,
+        "title": "PEDLER: Point Event-Driven Learner",
+        "subtitle": "The full architecture, from the 1996 tic-tac-toe system to physical AI, QEDLER, DNA and ILM",
+        "source": "content/ch-09.json",
+        "topics": [
+          "PEDLER",
+          "core loop",
+          "1996",
+          "governing function",
+          "balanced ternary",
+          "substrate independence"
+        ]
+      },
+      {
+        "id": "ch-10",
+        "number": 10,
+        "title": "Event-Driven Intelligence from 1996 to Beyond",
+        "subtitle": "The execution loop, learning mechanisms, and the 1996→2026 trajectory",
+        "source": "content/ch-10.json",
+        "topics": [
+          "execution loop",
+          "learning mechanisms",
+          "genotype",
+          "knowledge base",
+          "XOR merge",
+          "hierarchy of control"
+        ]
+      },
+      {
+        "id": "ch-11",
+        "number": 11,
+        "title": "PEDLER as a Developmental Executable Dynamical System",
+        "subtitle": "Executable walks, lateral inhibition as an architectural primitive, and development as topology change",
+        "source": "content/ch-11.json",
+        "topics": [
+          "executable walk",
+          "lateral inhibition",
+          "instar",
+          "migration",
+          "development",
+          "ACT-R distinction"
+        ]
+      },
+      {
+        "id": "ch-12",
+        "number": 12,
+        "title": "Engineering the Walk of Inclination",
+        "subtitle": "A unified ontology across substrates, interfaces and embodiments",
+        "source": "content/ch-12.json",
+        "topics": [
+          "twistor",
+          "balanced ternary",
+          "component based engineering",
+          "staggered upload",
+          "TransEg",
+          "BCI"
+        ]
+      },
+      {
+        "id": "ch-13",
+        "number": 13,
+        "title": "Scale Without Losing Your Nature",
+        "subtitle": "From MCU to massive clusters — the abstraction stays invariant",
+        "source": "content/ch-13.json",
+        "topics": [
+          "scaling",
+          "hierarchy",
+          "locality",
+          "temporal scales",
+          "composability",
+          "distributed"
+        ]
+      },
+      {
+        "id": "ch-14",
+        "number": 14,
+        "title": "From Ontology to Execution",
+        "subtitle": "Silicon, spikes, quanta, molecules, life — one executable ontology, many substrates",
+        "source": "content/ch-14.json",
+        "topics": [
+          "PEDLER-IR",
+          "substrates",
+          "DNA computing",
+          "compiler",
+          "QEDLER",
+          "strand displacement"
+        ]
+      },
+      {
+        "id": "ch-15",
+        "number": 15,
+        "title": "QEDLER: Quantum Events-Driven Learner",
+        "subtitle": "Inclination as the bridge between learning, control, logic, information, neural and quantum dynamics",
+        "source": "content/ch-15.json",
+        "topics": [
+          "QEDLER",
+          "quantum walk",
+          "Hamiltonian",
+          "Qiskit",
+          "benchmarks",
+          "open questions"
+        ]
+      },
+      {
+        "id": "ch-16",
+        "number": 16,
+        "title": "Correlating It All: ILM · Romenagri · PEDLER · QEDLER · DNA Compiler",
+        "subtitle": "Linguistic identity, executable transformation and substrate-independent computation in one architecture",
+        "source": "content/ch-16.json",
+        "topics": [
+          "ILM",
+          "Romenagri",
+          "abugida",
+          "abjad",
+          "parametric script",
+          "ambiguity"
+        ]
+      },
+      {
+        "id": "ch-17",
+        "number": 17,
+        "title": "Neural Computation, Neuropsychology, Disease Modelling and Self-Healing",
+        "subtitle": "The nervous system as a dynamic field of executable intentions",
+        "source": "content/ch-17.json",
+        "topics": [
+          "neuroglia",
+          "disease modelling",
+          "self-healing",
+          "glial scar",
+          "lateral inhibition",
+          "repair"
+        ]
+      },
+      {
+        "id": "ch-18",
+        "number": 18,
+        "title": "A Unifying Executable Transition Framework",
+        "subtitle": "From primitive inclinations to universality — converging to Turing machines, Boltzmann machines and beyond",
+        "source": "content/ch-18.json",
+        "topics": [
+          "universality",
+          "Turing machine",
+          "Boltzmann",
+          "realization lattice",
+          "attention",
+          "projection"
+        ]
+      },
+      {
+        "id": "ch-19",
+        "number": 19,
+        "title": "A Dukedom for a Day… Everyday",
+        "subtitle": "The open invitation, and ten reckonings of one moment",
+        "source": "content/ch-19.json",
+        "topics": [
+          "invitation",
+          "calendars",
+          "chakra observatory",
+          "ephemeral investiture",
+          "balance of interpretation"
+        ]
+      },
+      {
+        "id": "ch-20",
+        "number": 20,
+        "title": "A Day Well Spent",
+        "subtitle": "Photo gallery mémoire — ephemeral investiture, ephemeral disvestiture, eternal persistence",
+        "source": "content/ch-20.json",
+        "topics": [
+          "memoire",
+          "instruments",
+          "seal",
+          "chakra observatory",
+          "festina lente",
+          "record"
+        ]
+      },
+      {
+        "id": "ch-21",
+        "number": 21,
+        "title": "Five Ways to Build a Growth Mindset",
+        "subtitle": "Embrace challenges · learn from feedback · focus on effort · see failure as a lesson · celebrate progress",
+        "source": "content/ch-21.json",
+        "topics": [
+          "growth mindset",
+          "feedback",
+          "effort",
+          "failure",
+          "practice",
+          "learning"
+        ]
+      },
+      {
+        "id": "ch-22",
+        "number": 22,
+        "title": "Discipline Today Builds Freedom Tomorrow",
+        "subtitle": "Control your habits · strengthen your mind · create your future",
+        "source": "content/ch-22.json",
+        "topics": [
+          "discipline",
+          "habits",
+          "agency",
+          "choice",
+          "practice",
+          "convergence"
+        ]
+      }
+    ]
+  }
+}

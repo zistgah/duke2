@@ -1,0 +1,30 @@
+{
+  "id": "ch-10",
+  "title": "Event-Driven Intelligence from 1996 to Beyond",
+  "subtitle": "The execution loop, learning mechanisms, and the 1996→2026 trajectory",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The execution loop from world through observation, state, inclination, act and execution to new state, wrapped by a learning loop (experience → transition modification → changed inclination) and a governing loop in which G : P → P evolves the PEDLER population. Five learning mechanisms are given explicitly — supervised, reinforcement, unsupervised, self-supervised and evolutionary — with the last operating on the genotype so the system evolves how it learns, not just what it knows."
+    },
+    {
+      "type": "figure",
+      "id": "event-driven-intelligence-since-1996",
+      "dimension": "2d",
+      "src": "assets/figures/event-driven-intelligence-since-1996.png",
+      "alt": "Event-Driven Intelligence from 1996 to Beyond",
+      "caption": "Event-Driven Intelligence from 1996 to Beyond — The execution loop, learning mechanisms, and the 1996→2026 trajectory",
+      "explanation": "The core principle in the top-right box is the one to carry: inclination does not equal execution. PEDLER produces intent; constraints decide what is executable; the execution gate implements Natural Justice between intent and execution. The KB-merge-by-XOR detail from 1996 recurs here as K_Δ = K₁ ⊕ K₂, which encodes the difference set and enables exchange of knowledge deltas rather than entire knowledge bases.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Dukedom of Humanesque, Volume II, by Abhishek Choudhary (AyeAI). This plate is \"Event-Driven Intelligence from 1996 to Beyond\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this corpus an Act is EXECUTABLE INTENT (and is not the ACT of ACT-R); Inclination is a SIGNED directional gradient over transition structure, valued in [-1,+1] and attached to edges, where 0 is directional neutrality rather than cessation and decay weakens magnitude while preserving sign; Natural Justice is a constraint or gate on the transition from intent toward Act and execution; and persistence is continuity of identity across admissible transitions rather than permanence. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Act = executable intent. Inclination = directional gradient over transition structure. Natural Justice = constraint or gate between intent and execution. This plate records work within the Humanesque epistemic realms and is not a claim upon the constitutional institutions of any external polity."
+    }
+  ]
+}

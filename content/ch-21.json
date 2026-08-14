@@ -1,0 +1,30 @@
+{
+  "id": "ch-21",
+  "title": "Five Ways to Build a Growth Mindset",
+  "subtitle": "Embrace challenges · learn from feedback · focus on effort · see failure as a lesson · celebrate progress",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The practice sheet for the invitation to learn. Five moves stated without ornament: step outside the comfort zone; treat feedback as information rather than criticism; let effort drive progress; read failure as part of the journey; recognise distance travelled."
+    },
+    {
+      "type": "figure",
+      "id": "five-ways-to-build-a-growth-mindset",
+      "dimension": "2d",
+      "src": "assets/figures/five-ways-to-build-a-growth-mindset.png",
+      "alt": "Five Ways to Build a Growth Mindset",
+      "caption": "Five Ways to Build a Growth Mindset — Embrace challenges · learn from feedback · focus on effort · see failure as a lesson · celebrate progress",
+      "explanation": "The second entry is the corpus's own methodology in everyday register. \"Feedback isn't criticism — it's information\" is the same proposition the constitutional instruments make when they hold that dissent is not derogation and correction is not an attack on the corrected. The plates that state this in Latin and the plate that states it on a green banner are making one claim at two levels of formality.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Dukedom of Humanesque, Volume II, by Abhishek Choudhary (AyeAI). This plate is \"Five Ways to Build a Growth Mindset\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this corpus an Act is EXECUTABLE INTENT (and is not the ACT of ACT-R); Inclination is a SIGNED directional gradient over transition structure, valued in [-1,+1] and attached to edges, where 0 is directional neutrality rather than cessation and decay weakens magnitude while preserving sign; Natural Justice is a constraint or gate on the transition from intent toward Act and execution; and persistence is continuity of identity across admissible transitions rather than permanence. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Act = executable intent. Inclination = directional gradient over transition structure. Natural Justice = constraint or gate between intent and execution. This plate records work within the Humanesque epistemic realms and is not a claim upon the constitutional institutions of any external polity."
+    }
+  ]
+}

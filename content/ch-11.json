@@ -1,0 +1,30 @@
+{
+  "id": "ch-11",
+  "title": "PEDLER as a Developmental Executable Dynamical System",
+  "subtitle": "Executable walks, lateral inhibition as an architectural primitive, and development as topology change",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The signature claim: PEDLER unifies development and execution, because the same dynamics that build the transition structure are the dynamics that execute upon it. An Act is a walk ⟨S₀, e₁, S₁, …, e_n, S_n⟩ through the transition structure, and execution is traversal of that walk. Inclination evolves as İ = G − λI + L, with G reinforcement, λI decay and L lateral inhibition."
+    },
+    {
+      "type": "figure",
+      "id": "developmental-executable-dynamical-system",
+      "dimension": "2d",
+      "src": "assets/figures/developmental-executable-dynamical-system.png",
+      "alt": "PEDLER as a Developmental Executable Dynamical System",
+      "caption": "PEDLER as a Developmental Executable Dynamical System — Executable walks, lateral inhibition as an architectural primitive, and development as topology change",
+      "explanation": "The core distinction is stated to prevent a specific misreading: a PEDLER Act is not the ACT of ACT-R. ACT-R's ACT is rule firing in a production system; a PEDLER Act is an executable walk through transition structure. And panel 4 makes lateral inhibition explicit — when one transition is facilitated, competing transitions receive negative inclination. That is incoming counter-inclination that actively inhibits, not merely low activation, and it is an architectural primitive traditional networks lack.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Dukedom of Humanesque, Volume II, by Abhishek Choudhary (AyeAI). This plate is \"PEDLER as a Developmental Executable Dynamical System\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this corpus an Act is EXECUTABLE INTENT (and is not the ACT of ACT-R); Inclination is a SIGNED directional gradient over transition structure, valued in [-1,+1] and attached to edges, where 0 is directional neutrality rather than cessation and decay weakens magnitude while preserving sign; Natural Justice is a constraint or gate on the transition from intent toward Act and execution; and persistence is continuity of identity across admissible transitions rather than permanence. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Act = executable intent. Inclination = directional gradient over transition structure. Natural Justice = constraint or gate between intent and execution. This plate records work within the Humanesque epistemic realms and is not a claim upon the constitutional institutions of any external polity."
+    }
+  ]
+}

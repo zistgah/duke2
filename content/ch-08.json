@@ -1,0 +1,30 @@
+{
+  "id": "ch-08",
+  "title": "Inclination, Innervation, and Executable Intent",
+  "subtitle": "The computational architecture of walk, learning, development and innervation",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Inclination as directional gradient across the transition structure, I(e) = ΔT(e)/|ΔT(e)| · M(e), where sign gives direction and magnitude gives strength. Innervation is interfacing a component by encoding its input layer — a sensor or actuator becomes functionally incorporated into the executable architecture. Afferent and efferent are given a geometry relative to a dynamic central complex C: Aff(P) = −sign(∇_C P)."
+    },
+    {
+      "type": "figure",
+      "id": "inclination-innervation-executable-intent",
+      "dimension": "2d",
+      "src": "assets/figures/inclination-innervation-executable-intent.png",
+      "alt": "Inclination, Innervation, and Executable Intent",
+      "caption": "Inclination, Innervation, and Executable Intent — The computational architecture of walk, learning, development and innervation",
+      "explanation": "Panel 6 states the bioform/synthetiform asymmetry that runs through the corpus: a bioform arrives with a pre-existing biological peripheral architecture and PEDLER retrieves and encodes an existing interface, whereas a synthetiform lacks one and must construct the interface encoding itself. Retrieve, don't reconstruct — with the noted exception that a bioengineered living peripheral interface would let a synthetiform retrieve too.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Dukedom of Humanesque, Volume II, by Abhishek Choudhary (AyeAI). This plate is \"Inclination, Innervation, and Executable Intent\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this corpus an Act is EXECUTABLE INTENT (and is not the ACT of ACT-R); Inclination is a SIGNED directional gradient over transition structure, valued in [-1,+1] and attached to edges, where 0 is directional neutrality rather than cessation and decay weakens magnitude while preserving sign; Natural Justice is a constraint or gate on the transition from intent toward Act and execution; and persistence is continuity of identity across admissible transitions rather than permanence. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Act = executable intent. Inclination = directional gradient over transition structure. Natural Justice = constraint or gate between intent and execution. This plate records work within the Humanesque epistemic realms and is not a claim upon the constitutional institutions of any external polity."
+    }
+  ]
+}

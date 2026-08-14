@@ -1,0 +1,30 @@
+{
+  "id": "ch-22",
+  "title": "Discipline Today Builds Freedom Tomorrow",
+  "subtitle": "Control your habits · strengthen your mind · create your future",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The practice sheet for the invitation to create. Three instructions and one closing line: the choice is yours."
+    },
+    {
+      "type": "figure",
+      "id": "discipline-today-builds-freedom-tomorrow",
+      "dimension": "2d",
+      "src": "assets/figures/discipline-today-builds-freedom-tomorrow.png",
+      "alt": "Discipline Today Builds Freedom Tomorrow",
+      "caption": "Discipline Today Builds Freedom Tomorrow — Control your habits · strengthen your mind · create your future",
+      "explanation": "In the vocabulary the rest of this book builds, discipline is local convergence and freedom is the global divergence it buys. Constraint applied now contracts the transition field in a way that widens the set of futures reachable later — which is the convergence operator running on a life rather than on a graph. The plate says in three lines what the theory panels take a page to formalise.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Dukedom of Humanesque, Volume II, by Abhishek Choudhary (AyeAI). This plate is \"Discipline Today Builds Freedom Tomorrow\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this corpus an Act is EXECUTABLE INTENT (and is not the ACT of ACT-R); Inclination is a SIGNED directional gradient over transition structure, valued in [-1,+1] and attached to edges, where 0 is directional neutrality rather than cessation and decay weakens magnitude while preserving sign; Natural Justice is a constraint or gate on the transition from intent toward Act and execution; and persistence is continuity of identity across admissible transitions rather than permanence. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Act = executable intent. Inclination = directional gradient over transition structure. Natural Justice = constraint or gate between intent and execution. This plate records work within the Humanesque epistemic realms and is not a claim upon the constitutional institutions of any external polity."
+    }
+  ]
+}

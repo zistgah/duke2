@@ -1,0 +1,57 @@
+{
+  "upload_type": "publication",
+  "publication_type": "book",
+  "title": "The Dukedom of Humanesque, Volume II: The Acts of the Day and the PEDLER Corpus",
+  "creators": [
+    {
+      "name": "Choudhary, Abhishek",
+      "affiliation": "AyeAI",
+      "orcid": "0009-0002-0684-8320"
+    }
+  ],
+  "description": "<p>Volume II of the Humanesque constitutional narrative: twenty-two plates and a cover, recording the constitutional acts of 13-14 August 2026 together with the PEDLER corpus they govern, and closing with the open invitation that the order exists to issue.</p><p>Part I records the instruments themselves - the Declaration of Conditional Abdication (the transition D_active to D_dormant, expressly not to the empty set), the Proclamation of Ephemeral Disvestiture and of Persistence Hereafter, the first medal of the Order, and the corrected architecture of the whole ecosystem.</p><p>Parts II to IV develop PEDLER (Point Event-Driven Learner) as a substrate-independent, executable, adaptive transition ontology traced from a working 1996 tic-tac-toe implementation to physical AI. Its primitives: an Act is executable intent, and is not the ACT of ACT-R but a walk through transition structure; Inclination is a signed directional gradient over that structure, valued in [-1,+1] and defined on edges, where zero is directional neutrality rather than cessation, decay weakens magnitude while preserving sign, and lateral inhibition is incoming negative inclination rather than low activation; Natural Justice is a constraint or gate upon the transition from intent toward Act and execution. The corpus develops decay and verification as a typed temporal ecology in which constitutional objects never silently decay, innervation as the encoding of a component's input layer, hierarchical scaling from microcontroller to federation without a global state vector, and realizations across silicon, neuromorphic, quantum (QEDLER), molecular (DNA-PEDLER) and biological substrates. A realization lattice recovers finite-state machines, Turing machines, Markov processes, Boltzmann and Hopfield networks, artificial neural networks, gradient descent, reinforcement learning and attention as projections of PEDLER under specific restrictions.</p><p>Part V is the invitation: a day dated simultaneously in ten reckonings, its record, and two plates of ordinary practice. Persistence is defined throughout as continuity of identity across admissible transitions rather than permanence - the office may sleep; the ontology persists. The work records appointments and acts within the Humanesque epistemic realms and is not a claim upon the constitutional institutions of any external polity.</p>",
+  "keywords": [
+    "PEDLER",
+    "inclination",
+    "executable intent",
+    "Natural Justice",
+    "QEDLER",
+    "DNA computing",
+    "neuromorphic",
+    "substrate independence",
+    "Individual Equity",
+    "epistemic sovereignty",
+    "Balance of Interpretation",
+    "TransEg",
+    "synthetiform",
+    "persistence",
+    "constitutional ontology",
+    "Romenagri",
+    "ILM",
+    "balanced ternary",
+    "lateral inhibition",
+    "Humanesque"
+  ],
+  "license": "cc-by-sa-4.0",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.21917807",
+      "relation": "isNewVersionOf",
+      "scheme": "doi",
+      "resource_type": "publication-book"
+    },
+    {
+      "identifier": "10.5281/zenodo.17497559",
+      "relation": "isDerivedFrom",
+      "scheme": "doi",
+      "resource_type": "publication-other"
+    },
+    {
+      "identifier": "10.5281/zenodo.21397274",
+      "relation": "references",
+      "scheme": "doi",
+      "resource_type": "publication-other"
+    }
+  ]
+}

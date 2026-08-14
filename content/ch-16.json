@@ -1,0 +1,30 @@
+{
+  "id": "ch-16",
+  "title": "Correlating It All: ILM · Romenagri · PEDLER · QEDLER · DNA Compiler",
+  "subtitle": "Linguistic identity, executable transformation and substrate-independent computation in one architecture",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "ILM supplies the identity layer (script ≠ language ≠ representation; one canonical identity, many script projections); PEDLER supplies the executable walk. Romenagri is explicitly NOT romanisation but a canonical, reversible linguistic identity with an 84-entry phonological basis and a historical toolchain (acii2rmn.c forward, rmn2acii.c recursive-descent reverse, flatten_uni_dev canonicalisation). Script types become parameterised representation grammars — alphabet, abjad, abugida — realised by Render_S(C, V, θ_S)."
+    },
+    {
+      "type": "figure",
+      "id": "correlating-ilm-romenagri-pedler-qedler",
+      "dimension": "2d",
+      "src": "assets/figures/correlating-ilm-romenagri-pedler-qedler.png",
+      "alt": "Correlating It All: ILM · Romenagri · PEDLER · QEDLER · DNA Compiler",
+      "caption": "Correlating It All: ILM · Romenagri · PEDLER · QEDLER · DNA Compiler — Linguistic identity, executable transformation and substrate-independent computation in one architecture",
+      "explanation": "Panel 10 turns a nuisance into a feature. Where an abjad underspecifies vowels, multiple candidate expansions exist and PEDLER represents all of them with inclinations, selecting by max-I, softmax, utility or contextual Bayesian methods. The stated insight — ambiguity is not an error, it is a state with multiple viable transitions — is what lets the architecture avoid the N² transliteration explosion by parameterising instead of enumerating.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Dukedom of Humanesque, Volume II, by Abhishek Choudhary (AyeAI). This plate is \"Correlating It All: ILM · Romenagri · PEDLER · QEDLER · DNA Compiler\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this corpus an Act is EXECUTABLE INTENT (and is not the ACT of ACT-R); Inclination is a SIGNED directional gradient over transition structure, valued in [-1,+1] and attached to edges, where 0 is directional neutrality rather than cessation and decay weakens magnitude while preserving sign; Natural Justice is a constraint or gate on the transition from intent toward Act and execution; and persistence is continuity of identity across admissible transitions rather than permanence. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Act = executable intent. Inclination = directional gradient over transition structure. Natural Justice = constraint or gate between intent and execution. This plate records work within the Humanesque epistemic realms and is not a claim upon the constitutional institutions of any external polity."
+    }
+  ]
+}

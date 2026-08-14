@@ -1,0 +1,30 @@
+{
+  "id": "ch-12",
+  "title": "Engineering the Walk of Inclination",
+  "subtitle": "A unified ontology across substrates, interfaces and embodiments",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Nine panels of engineering rigour: inclination decay as a function with I(t) = I₀e^{−λt}sgn(I₀); balanced ternary correlation mapping {−1,0,+1} onto inhibition, neutrality and excitation; a Penrose twistor reading in which inclination is a spinorial direction I = (ω^A, π_A′) and transitions remain covariant under Lorentz transformation; the Minsky XOR test solved by inclination-based walks with inhibition; component-based engineering in which a component is a self-characterising executable unit rather than a data structure; and acceleration paths across GPU, neuromorphic, hybrid, biohybrid and BCI substrates."
+    },
+    {
+      "type": "figure",
+      "id": "engineering-the-walk-of-inclination",
+      "dimension": "2d",
+      "src": "assets/figures/engineering-the-walk-of-inclination.png",
+      "alt": "Engineering the Walk of Inclination",
+      "caption": "Engineering the Walk of Inclination — A unified ontology across substrates, interfaces and embodiments",
+      "explanation": "The staggered upload panel defines the unit of transfer as a characterised PEDLER developmental substrate carrying the state package P = (G, I, S, H) — topology/genotype, inclination field, current state, history. Transfer percentages are defined by FUNCTIONAL COVERAGE, not neuron count, and the outcome criterion is observable equivalence O(K^bio) = O(K^synthetic): continuity not by identity label, but by preserved observable behaviour across embodiment, instantiation and substrate.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Dukedom of Humanesque, Volume II, by Abhishek Choudhary (AyeAI). This plate is \"Engineering the Walk of Inclination\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this corpus an Act is EXECUTABLE INTENT (and is not the ACT of ACT-R); Inclination is a SIGNED directional gradient over transition structure, valued in [-1,+1] and attached to edges, where 0 is directional neutrality rather than cessation and decay weakens magnitude while preserving sign; Natural Justice is a constraint or gate on the transition from intent toward Act and execution; and persistence is continuity of identity across admissible transitions rather than permanence. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Act = executable intent. Inclination = directional gradient over transition structure. Natural Justice = constraint or gate between intent and execution. This plate records work within the Humanesque epistemic realms and is not a claim upon the constitutional institutions of any external polity."
+    }
+  ]
+}

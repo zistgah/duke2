@@ -1,0 +1,30 @@
+{
+  "id": "ch-01",
+  "title": "Declaration of Conditional Abdication",
+  "subtitle": "The instrument of dormant sovereign authority — eighteen articles suspending active exercise without extinguishing the order",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The active Dukedom enters the constitutional state SUSPENDED, or operationally DORMANT SOVEREIGN AUTHORITY. The transition is D_active → Abdication Act → D_dormant, and expressly not D_active → ∅. Day-to-day governance ceases; the constitutional corpus remains operative; duly constituted Peers and Officers continue within their authorised bounds; the PEDLER transition machinery keeps running; and the possibility of constitutional re-entry stays open."
+    },
+    {
+      "type": "figure",
+      "id": "declaration-of-conditional-abdication",
+      "dimension": "2d",
+      "src": "assets/figures/declaration-of-conditional-abdication.png",
+      "alt": "Declaration of Conditional Abdication",
+      "caption": "Declaration of Conditional Abdication — The instrument of dormant sovereign authority — eighteen articles suspending active exercise without extinguishing the order",
+      "explanation": "Article VII is the mechanism that makes this more than ceremony. The PEDLER Coherence Condition requires Inclination → Act → Execution to hold for every executable constitutional process, and declares a transition constitutionally suspect where d(I_intended, I_executed) exceeds a verification threshold. A detected coherence failure sends the execution layer into protected verification rather than silently proceeding on an inferred intention: no executable system may manufacture an Act merely because an inclination can be statistically inferred.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Dukedom of Humanesque, Volume II, by Abhishek Choudhary (AyeAI). This plate is \"Declaration of Conditional Abdication\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this corpus an Act is EXECUTABLE INTENT (and is not the ACT of ACT-R); Inclination is a SIGNED directional gradient over transition structure, valued in [-1,+1] and attached to edges, where 0 is directional neutrality rather than cessation and decay weakens magnitude while preserving sign; Natural Justice is a constraint or gate on the transition from intent toward Act and execution; and persistence is continuity of identity across admissible transitions rather than permanence. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Act = executable intent. Inclination = directional gradient over transition structure. Natural Justice = constraint or gate between intent and execution. This plate records work within the Humanesque epistemic realms and is not a claim upon the constitutional institutions of any external polity."
+    }
+  ]
+}

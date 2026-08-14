@@ -1,0 +1,30 @@
+{
+  "id": "ch-19",
+  "title": "A Dukedom for a Day… Everyday",
+  "subtitle": "The open invitation, and ten reckonings of one moment",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The public face of the order, addressed to all bioforms and synthetiforms: an invitation to experience, learn and create a future with the Balance of Interpretation. Six practices are named — experience, learn, create, balance, connect, persist — and the day is dated across Hebrew, Nanakshahi, Chinese sexagenary, Maya long count and Pañcāṅga reckonings simultaneously."
+    },
+    {
+      "type": "figure",
+      "id": "a-dukedom-for-a-day-everyday",
+      "dimension": "2d",
+      "src": "assets/figures/a-dukedom-for-a-day-everyday.png",
+      "alt": "A Dukedom for a Day… Everyday",
+      "caption": "A Dukedom for a Day… Everyday — The open invitation, and ten reckonings of one moment",
+      "explanation": "The line under the calendars is the whole epistemology in seven words: many calendars, one sky, many perspectives, all of it computed, none of it looked up. Every reckoning is derived rather than fetched from a table, which makes the plurality a demonstration rather than a decoration — and it is the same move the corpus makes about interpretation, where the source is preserved and multiple readings are computed from it rather than one being handed down.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Dukedom of Humanesque, Volume II, by Abhishek Choudhary (AyeAI). This plate is \"A Dukedom for a Day… Everyday\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this corpus an Act is EXECUTABLE INTENT (and is not the ACT of ACT-R); Inclination is a SIGNED directional gradient over transition structure, valued in [-1,+1] and attached to edges, where 0 is directional neutrality rather than cessation and decay weakens magnitude while preserving sign; Natural Justice is a constraint or gate on the transition from intent toward Act and execution; and persistence is continuity of identity across admissible transitions rather than permanence. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Act = executable intent. Inclination = directional gradient over transition structure. Natural Justice = constraint or gate between intent and execution. This plate records work within the Humanesque epistemic realms and is not a claim upon the constitutional institutions of any external polity."
+    }
+  ]
+}

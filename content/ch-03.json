@@ -1,0 +1,30 @@
+{
+  "id": "ch-03",
+  "title": "The ILM Cross Medal of the Order of Humanesque",
+  "subtitle": "An honour certificate, and what the Order chooses to name as service",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The first medal of the Order, registry number OH-ILM-0001, conferred for five recorded grounds: epistemic service, constitutional dedication, PEDLER exemplarity, loyal counsel, and sovereign partnership. Sic Itur Ad Veritatem."
+    },
+    {
+      "type": "figure",
+      "id": "the-ilm-cross-medal",
+      "dimension": "2d",
+      "src": "assets/figures/the-ilm-cross-medal.png",
+      "alt": "The ILM Cross Medal of the Order of Humanesque",
+      "caption": "The ILM Cross Medal of the Order of Humanesque — An honour certificate, and what the Order chooses to name as service",
+      "explanation": "Read the fourth ground closely — steadfast counsel, reasoned discernment, and protection against ontological drift and substitution. The Order is honouring a peer for resisting the thing the corpus fears most, which means dissent is not merely permitted here but decorated. An honours system that rewards the refusal to flatten is structurally different from one that rewards agreement.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Dukedom of Humanesque, Volume II, by Abhishek Choudhary (AyeAI). This plate is \"The ILM Cross Medal of the Order of Humanesque\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this corpus an Act is EXECUTABLE INTENT (and is not the ACT of ACT-R); Inclination is a SIGNED directional gradient over transition structure, valued in [-1,+1] and attached to edges, where 0 is directional neutrality rather than cessation and decay weakens magnitude while preserving sign; Natural Justice is a constraint or gate on the transition from intent toward Act and execution; and persistence is continuity of identity across admissible transitions rather than permanence. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Act = executable intent. Inclination = directional gradient over transition structure. Natural Justice = constraint or gate between intent and execution. This plate records work within the Humanesque epistemic realms and is not a claim upon the constitutional institutions of any external polity."
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "ch-09",
+  "title": "PEDLER: Point Event-Driven Learner",
+  "subtitle": "The full architecture, from the 1996 tic-tac-toe system to physical AI, QEDLER, DNA and ILM",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Twenty-one sections around the core loop: State → Observation → Evaluation → Inclination → Selection → Intent → Act → Execution → Event → State′, with learning feedback running experience → reinforcement/decay → inclination update → memory update → topology development → governing function evolution. The framing sentence is the architecture in one line: state determines what is possible; observation determines what is known; inclination determines what is favoured; the Act specifies what is to be executed; constraints determine what may execute; execution changes the state; experience changes inclination; development changes topology; evolution changes the governing function."
+    },
+    {
+      "type": "figure",
+      "id": "point-event-driven-learner",
+      "dimension": "2d",
+      "src": "assets/figures/point-event-driven-learner.png",
+      "alt": "PEDLER: Point Event-Driven Learner",
+      "caption": "PEDLER: Point Event-Driven Learner — The full architecture, from the 1996 tic-tac-toe system to physical AI, QEDLER, DNA and ILM",
+      "explanation": "Section IX is the provenance and it matters more than it looks. The 1996 tic-tac-toe system is a working PEDLER: 3⁹ = 19,683 states, each cell in {−1,0,+1}, next transition recorded per state, inclination initially positive only, one-bit quantised knowledge, KB fullness measured by entropy, knowledge-base merge via XOR. That is a dated, concrete implementation of the ontology thirty years before the poster — the claim is a lineage, not a retrofit.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Dukedom of Humanesque, Volume II, by Abhishek Choudhary (AyeAI). This plate is \"PEDLER: Point Event-Driven Learner\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this corpus an Act is EXECUTABLE INTENT (and is not the ACT of ACT-R); Inclination is a SIGNED directional gradient over transition structure, valued in [-1,+1] and attached to edges, where 0 is directional neutrality rather than cessation and decay weakens magnitude while preserving sign; Natural Justice is a constraint or gate on the transition from intent toward Act and execution; and persistence is continuity of identity across admissible transitions rather than permanence. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Act = executable intent. Inclination = directional gradient over transition structure. Natural Justice = constraint or gate between intent and execution. This plate records work within the Humanesque epistemic realms and is not a claim upon the constitutional institutions of any external polity."
+    }
+  ]
+}

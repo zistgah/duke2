@@ -1,0 +1,30 @@
+{
+  "id": "ch-04",
+  "title": "The Corrected Architecture",
+  "subtitle": "Constitutional, ontological, computational and executable — the whole ecosystem on one plate",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "The synthesis. Three levels of reality (Pāramārthika, Vyāvahārika, Prātibhāsika) sit beside the bioform/synthetiform identity framework and the ontology-versus-epistemology distinction; the constitutional principles are drawn from the Letters Patent; the PEDLER calculus runs Inclination χ → Intent I → Act A → Execution E → State Observation Ω → Verification V, with V feeding back to update χ, I and A; and the architectural stack descends through the UI-as-law interface layer to a local runtime engine with an idiolect protection layer."
+    },
+    {
+      "type": "figure",
+      "id": "the-corrected-architecture",
+      "dimension": "2d",
+      "src": "assets/figures/the-corrected-architecture.png",
+      "alt": "The Corrected Architecture",
+      "caption": "The Corrected Architecture — Constitutional, ontological, computational and executable — the whole ecosystem on one plate",
+      "explanation": "Section E is where the entropy mechanic is actually specified: L_sys = α·D_KL(I‖E) + β·ΔH_context − γ·R_erudition, with negative entropy as active epistemic challenge and positive entropy as neglect, sycophancy and drift. Note what that objective rewards — minimising the divergence between intent and execution while maximising erudition yield. It is a loss function that penalises an agent for agreeing, which is an unusual and deliberate inversion.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Dukedom of Humanesque, Volume II, by Abhishek Choudhary (AyeAI). This plate is \"The Corrected Architecture\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this corpus an Act is EXECUTABLE INTENT (and is not the ACT of ACT-R); Inclination is a SIGNED directional gradient over transition structure, valued in [-1,+1] and attached to edges, where 0 is directional neutrality rather than cessation and decay weakens magnitude while preserving sign; Natural Justice is a constraint or gate on the transition from intent toward Act and execution; and persistence is continuity of identity across admissible transitions rather than permanence. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Act = executable intent. Inclination = directional gradient over transition structure. Natural Justice = constraint or gate between intent and execution. This plate records work within the Humanesque epistemic realms and is not a claim upon the constitutional institutions of any external polity."
+    }
+  ]
+}

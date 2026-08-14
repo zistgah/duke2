@@ -1,0 +1,30 @@
+{
+  "id": "ch-05",
+  "title": "Inclination: The Directional Gradient over Transition Structure",
+  "subtitle": "The primitive stated plainly — the leaning before the leap",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Inclination is the directional tendency toward a transition within a transition structure, and it is not yet an intent. It represents which way a system is leaning and with what strength, sitting between epistemic observation and executable agency: Observation (what has been perceived) → Inclination (which transition is favoured, and in what direction) → Intent (the transition one is prepared to commit to) → Act (executable intent) → Execution (the transition occurs)."
+    },
+    {
+      "type": "figure",
+      "id": "inclination-directional-gradient",
+      "dimension": "2d",
+      "src": "assets/figures/inclination-directional-gradient.png",
+      "alt": "Inclination: The Directional Gradient over Transition Structure",
+      "caption": "Inclination: The Directional Gradient over Transition Structure — The primitive stated plainly — the leaning before the leap",
+      "explanation": "The mathematical panel is careful about a distinction that is easy to lose. In vector form I_t = ∇_T V, the gradient is taken over transition structure T, not merely over a numerical state variable. The stated analogy is exact and its limit is stated with it: backpropagation computes a gradient telling the system which direction changes the objective, and PEDLER inclination represents the directional tendency toward a transition — but PEDLER does not require the transformer or backpropagation machinery to generate that gradient.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Dukedom of Humanesque, Volume II, by Abhishek Choudhary (AyeAI). This plate is \"Inclination: The Directional Gradient over Transition Structure\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this corpus an Act is EXECUTABLE INTENT (and is not the ACT of ACT-R); Inclination is a SIGNED directional gradient over transition structure, valued in [-1,+1] and attached to edges, where 0 is directional neutrality rather than cessation and decay weakens magnitude while preserving sign; Natural Justice is a constraint or gate on the transition from intent toward Act and execution; and persistence is continuity of identity across admissible transitions rather than permanence. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Act = executable intent. Inclination = directional gradient over transition structure. Natural Justice = constraint or gate between intent and execution. This plate records work within the Humanesque epistemic realms and is not a claim upon the constitutional institutions of any external polity."
+    }
+  ]
+}

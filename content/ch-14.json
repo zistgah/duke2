@@ -1,0 +1,30 @@
+{
+  "id": "ch-14",
+  "title": "From Ontology to Execution",
+  "subtitle": "Silicon, spikes, quanta, molecules, life — one executable ontology, many substrates",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "PEDLER-IR as a canonical semantic intermediate representation that targets silicon, neuromorphic, biological, quantum (QEDLER) and molecular (DNA-PEDLER) backends. The two-compiler architecture is the structural idea: compiler A lowers PEDLER to PEDLER-IR, compiler B targets multiple substrates from that same IR. A six-stage molecular path runs PEDLER source → PEDLER-IR → molecular IR → chemical reaction network → strand-displacement → DNA design."
+    },
+    {
+      "type": "figure",
+      "id": "from-ontology-to-execution",
+      "dimension": "2d",
+      "src": "assets/figures/from-ontology-to-execution.png",
+      "alt": "From Ontology to Execution",
+      "caption": "From Ontology to Execution — Silicon, spikes, quanta, molecules, life — one executable ontology, many substrates",
+      "explanation": "Panel 4's primitive-to-DNA correspondence is the plate's strongest move because it is falsifiable. Inclination maps to reaction propensity or kinetic bias, +1 to an activating pathway, −1 to an inhibitory pathway, decay to degradation or dilution, lateral inhibition to an inhibitory molecular pathway. Panel 13 draws the line the whole framework rests on: DNA as storage is information, DNA as runtime is execution — PEDLER is about executable intent, not information storage.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Dukedom of Humanesque, Volume II, by Abhishek Choudhary (AyeAI). This plate is \"From Ontology to Execution\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this corpus an Act is EXECUTABLE INTENT (and is not the ACT of ACT-R); Inclination is a SIGNED directional gradient over transition structure, valued in [-1,+1] and attached to edges, where 0 is directional neutrality rather than cessation and decay weakens magnitude while preserving sign; Natural Justice is a constraint or gate on the transition from intent toward Act and execution; and persistence is continuity of identity across admissible transitions rather than permanence. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Act = executable intent. Inclination = directional gradient over transition structure. Natural Justice = constraint or gate between intent and execution. This plate records work within the Humanesque epistemic realms and is not a claim upon the constitutional institutions of any external polity."
+    }
+  ]
+}

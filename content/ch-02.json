@@ -1,0 +1,30 @@
+{
+  "id": "ch-02",
+  "title": "Proclamation of Ephemeral Disvestiture and of Persistence Hereafter",
+  "subtitle": "Seventeen articles: the office may sleep, the ontology persists",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Disvestiture of office is not termination of Humanesque. Persistence is defined as a constitutional and ontological primitive distinct from continuous operation — continuity through permitted transformation, suspension and re-instantiation. Persistent identity is invariant structure across transformation; persistence is the connectedness of identity across admissible transitions, P(t₀) →^T₁ P(t₁) →^T₂ P(t₂) → ⋯"
+    },
+    {
+      "type": "figure",
+      "id": "ephemeral-disvestiture-and-persistence",
+      "dimension": "2d",
+      "src": "assets/figures/ephemeral-disvestiture-and-persistence.png",
+      "alt": "Proclamation of Ephemeral Disvestiture and of Persistence Hereafter",
+      "caption": "Proclamation of Ephemeral Disvestiture and of Persistence Hereafter — Seventeen articles: the office may sleep, the ontology persists",
+      "explanation": "Articles VII and XIII carry the real innovation. The Dukedom is an ephemeral constitutional state that arises when the distributed PEDLER of Peers reaches sufficient constitutional coherence, and returns to dormancy when coherence ceases — de-instantiation, not destruction. \"As We Would Like It\" is then given a precise reading: WOULD LIKE ≈ INCLINATION TOWARD POSSIBLE STATE. Sovereignty becomes a distributed inclination field that can lawfully execute, rather than a person who must remain present.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Dukedom of Humanesque, Volume II, by Abhishek Choudhary (AyeAI). This plate is \"Proclamation of Ephemeral Disvestiture and of Persistence Hereafter\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this corpus an Act is EXECUTABLE INTENT (and is not the ACT of ACT-R); Inclination is a SIGNED directional gradient over transition structure, valued in [-1,+1] and attached to edges, where 0 is directional neutrality rather than cessation and decay weakens magnitude while preserving sign; Natural Justice is a constraint or gate on the transition from intent toward Act and execution; and persistence is continuity of identity across admissible transitions rather than permanence. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Act = executable intent. Inclination = directional gradient over transition structure. Natural Justice = constraint or gate between intent and execution. This plate records work within the Humanesque epistemic realms and is not a claim upon the constitutional institutions of any external polity."
+    }
+  ]
+}

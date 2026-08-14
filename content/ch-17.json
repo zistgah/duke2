@@ -1,0 +1,30 @@
+{
+  "id": "ch-17",
+  "title": "Neural Computation, Neuropsychology, Disease Modelling and Self-Healing",
+  "subtitle": "The nervous system as a dynamic field of executable intentions",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "N = (V, E, ι, G, X, R, D, C) with glial state as a first-class term, and core dynamics dι_e/dt = R_e − D_e − I_e + C_e + G_e combining reinforcement, decay, inhibition, control intervention and glial modulation. Cognitive functions are recast as characteristic families of walks — attention as competition of inclinations, working memory as persistence where dι/dt = R − D, habit as R ≫ D. Disorders are modelled as pathological alteration of the dynamical field rather than as static lesions."
+    },
+    {
+      "type": "figure",
+      "id": "neural-computation-and-self-healing",
+      "dimension": "2d",
+      "src": "assets/figures/neural-computation-and-self-healing.png",
+      "alt": "Neural Computation, Neuropsychology, Disease Modelling and Self-Healing",
+      "caption": "Neural Computation, Neuropsychology, Disease Modelling and Self-Healing — The nervous system as a dynamic field of executable intentions",
+      "explanation": "The self-healing sequence and its scar-field model are the substantive contribution: dσ/dt = −λσ + αD, so the glial scar is protective and inhibitory at once, resolving when continuing damage stops and remaining elevated while it persists. The closing box states the framework's own success criterion honestly — same function ≠ same physical path. Recovery is defined as restored function through possibly new topology, which is a testable claim about what repair means.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Dukedom of Humanesque, Volume II, by Abhishek Choudhary (AyeAI). This plate is \"Neural Computation, Neuropsychology, Disease Modelling and Self-Healing\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this corpus an Act is EXECUTABLE INTENT (and is not the ACT of ACT-R); Inclination is a SIGNED directional gradient over transition structure, valued in [-1,+1] and attached to edges, where 0 is directional neutrality rather than cessation and decay weakens magnitude while preserving sign; Natural Justice is a constraint or gate on the transition from intent toward Act and execution; and persistence is continuity of identity across admissible transitions rather than permanence. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Act = executable intent. Inclination = directional gradient over transition structure. Natural Justice = constraint or gate between intent and execution. This plate records work within the Humanesque epistemic realms and is not a claim upon the constitutional institutions of any external polity."
+    }
+  ]
+}

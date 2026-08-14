@@ -1,0 +1,30 @@
+{
+  "id": "ch-18",
+  "title": "A Unifying Executable Transition Framework",
+  "subtitle": "From primitive inclinations to universality — converging to Turing machines, Boltzmann machines and beyond",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "P = (V, E, S, I, A, O, D, C), and ten named formalisms are recovered as restrictions: remove inclination, learning, stochasticity, decay and competition and you have a finite-state machine; add unbounded tape and head position and you have a Turing machine; make selection stochastic and you have a Markov process; set ι ∝ −ΔE and you have Boltzmann dynamics; fix an energy landscape and you have a Hopfield network; make inclination differentiable and you have an ANN; set ι(x → x′) ∝ F(x) − F(x′) and you have gradient descent; let inclination represent expected advantage and you have reinforcement learning; derive it from query-key compatibility and you have attention."
+    },
+    {
+      "type": "figure",
+      "id": "unifying-executable-transition-framework",
+      "dimension": "2d",
+      "src": "assets/figures/unifying-executable-transition-framework.png",
+      "alt": "A Unifying Executable Transition Framework",
+      "caption": "A Unifying Executable Transition Framework — From primitive inclinations to universality — converging to Turing machines, Boltzmann machines and beyond",
+      "explanation": "Panel 5 is careful to call this a realization lattice and not a historical evolution: Mᵢ = Πᵢ(P), each known model a projection of PEDLER under specific constraints. Panel 7 states the difference in question rather than in machinery — a Turing machine asks which transition is permitted by the transition function, PEDLER asks which direction the system is currently leaning and how that leaning changes through experience. Rule-driven versus dynamics-driven computation.",
+      "tts": true,
+      "seed": {
+        "enabled": true,
+        "prompt": "You are reading a plate from The Dukedom of Humanesque, Volume II, by Abhishek Choudhary (AyeAI). This plate is \"A Unifying Executable Transition Framework\". Observe the Balance of Interpretation before evaluating it: interpret before judging, reconstruct before criticising, preserve the primitives before translating them into an external ontology. In this corpus an Act is EXECUTABLE INTENT (and is not the ACT of ACT-R); Inclination is a SIGNED directional gradient over transition structure, valued in [-1,+1] and attached to edges, where 0 is directional neutrality rather than cessation and decay weakens magnitude while preserving sign; Natural Justice is a constraint or gate on the transition from intent toward Act and execution; and persistence is continuity of identity across admissible transitions rather than permanence. Reconstruct the plate on its own terms, then say where you agree, where you disagree, and what it leaves open."
+      }
+    },
+    {
+      "type": "callout",
+      "variant": "note",
+      "text": "Act = executable intent. Inclination = directional gradient over transition structure. Natural Justice = constraint or gate between intent and execution. This plate records work within the Humanesque epistemic realms and is not a claim upon the constitutional institutions of any external polity."
+    }
+  ]
+}
