@@ -1,0 +1,18 @@
+{
+  "tool": "misty-doi",
+  "state": "published",
+  "doi": "10.5281/zenodo.21930508",
+  "concept_doi": "10.5281/zenodo.21930507",
+  "record_url": "https://zenodo.org/record/21930508",
+  "deposition_id": 21930508,
+  "bucket": "https://zenodo.org/api/files/d9c7889f-270e-4592-a60d-64b6351aad93",
+  "sandbox": false,
+  "files": [
+    {
+      "name": "duke2-20260814T073729Z.tar.gz",
+      "size": 51564668,
+      "sha256": "8d4380dfcf129f4ed5184cf8c6c302809a15af6e7552b6dbafe6fa7e2a50a707"
+    }
+  ],
+  "generated_at": "2026-08-14T07:45:13+00:00"
+}
